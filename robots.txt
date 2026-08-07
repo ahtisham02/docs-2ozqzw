@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-ap1omf.yoursingles.online/sitemap.xml
